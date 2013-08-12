@@ -1,0 +1,9 @@
+canvas {
+    display: block;
+}
+
+#canvasTank, #canvasEnemy, #canvasHUD ,#canvasCloud{
+    margin: -500px 0 0;
+}
+
+body{background: #ababab;}

@@ -1,4 +1,3 @@
-html5game
-=========
+# HTML5 Game
 
-HTML5 Game 
+This is a trial game.
