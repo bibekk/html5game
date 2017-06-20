@@ -6,4 +6,4 @@ canvas {
     margin: -500px 0 0;
 }
 
-body{background: #ababab;}
+body{background: #ababab; border:1px solid #ccc;}
